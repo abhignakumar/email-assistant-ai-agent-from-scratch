@@ -2,7 +2,8 @@
 
 ## Overview
 
-Built a fully functional autonomous AI agent from scratch using the **ReAct (Reasoning + Acting)** architecture, designed to simulate real-world decision-making and tool usage.
+- Built a fully functional autonomous AI agent from scratch using the **ReAct (Reasoning + Acting)** architecture, designed to simulate real-world decision-making and tool usage.
+- [Google Colab Link](https://colab.research.google.com/drive/1MBKRyTpIMFe4U-DhaBWsq7Pxh7M3nEOk?usp=sharing)
 
 ## Key Highlights
 
